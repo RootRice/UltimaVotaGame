@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dragon Head
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Dragon
+    m_Weight: 0
+  - m_Path: Dragon_Chest
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LForeleg_Shoulder
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LForeleg_Shoulder/Dragon_LForeleg_Elbow
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LForeleg_Shoulder/Dragon_LForeleg_Elbow/Dragon_LForeleg_Wrist
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LForeleg_Shoulder/Dragon_LForeleg_Elbow/Dragon_LForeleg_Wrist/Dragon_LForeleg_Palm
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LForeleg_Shoulder/Dragon_LForeleg_Elbow/Dragon_LForeleg_Wrist/Dragon_LForeleg_Palm/Dragon_LForeleg_Fingers
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Membrane
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Wrist
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Wrist/Dragon_LWing_Finger1_1
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Wrist/Dragon_LWing_Finger1_1/Dragon_LWing_Finger1_2
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Wrist/Dragon_LWing_Finger1_1/Dragon_LWing_Finger1_2/Dragon_LWing_Finger1_3
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Wrist/Dragon_LWing_Finger2_1
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Wrist/Dragon_LWing_Finger2_1/Dragon_LWing_Finger2_2
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Wrist/Dragon_LWing_Finger2_1/Dragon_LWing_Finger2_2/Dragon_LWing_Finger2_3
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Wrist/Dragon_LWing_Finger3_1
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Wrist/Dragon_LWing_Finger3_1/Dragon_LWing_Finger3_2
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Wrist/Dragon_LWing_Finger3_1/Dragon_LWing_Finger3_2/Dragon_LWing_Finger3_3
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Wrist/Dragon_LWing_Thumb_1
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Wrist/Dragon_LWing_Thumb_1/Dragon_LWing_Thumb_2
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_LWing_Shoulder/Dragon_LWing_Elbow/Dragon_LWing_Wrist/Dragon_LWing_Thumb_1/Dragon_LWing_Thumb_2/Dragon_LWing_Thumb_3
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Neck_1
+    m_Weight: 1
+  - m_Path: Dragon_Chest/Dragon_Neck_1/Dragon_Neck_2
+    m_Weight: 1
+  - m_Path: Dragon_Chest/Dragon_Neck_1/Dragon_Neck_2/Dragon_Head_1
+    m_Weight: 1
+  - m_Path: Dragon_Chest/Dragon_Neck_1/Dragon_Neck_2/Dragon_Head_1/Dragon_Head_2
+    m_Weight: 1
+  - m_Path: Dragon_Chest/Dragon_Neck_1/Dragon_Neck_2/Dragon_Head_1/Dragon_Head_2/Dragon_Jaw_1
+    m_Weight: 1
+  - m_Path: Dragon_Chest/Dragon_Neck_1/Dragon_Neck_2/Dragon_Head_1/Dragon_Head_2/Dragon_Jaw_1/Dragon_Jaw_2
+    m_Weight: 1
+  - m_Path: Dragon_Chest/Dragon_Neck_1/Dragon_Neck_2/Dragon_Head_1/DragonLHorn
+    m_Weight: 1
+  - m_Path: Dragon_Chest/Dragon_Neck_1/Dragon_Neck_2/Dragon_Head_1/DragonRHorn
+    m_Weight: 1
+  - m_Path: Dragon_Chest/Dragon_RForeleg_Shoulder
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RForeleg_Shoulder/Dragon_RForeleg_Elbow
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RForeleg_Shoulder/Dragon_RForeleg_Elbow/Dragon_RForeleg_Wrist
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RForeleg_Shoulder/Dragon_RForeleg_Elbow/Dragon_RForeleg_Wrist/Dragon_RForeleg_Palm
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RForeleg_Shoulder/Dragon_RForeleg_Elbow/Dragon_RForeleg_Wrist/Dragon_RForeleg_Palm/Dragon_RForeleg_Fingers
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Membrane
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Wrist
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Wrist/Dragon_RWing_Finger1_1
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Wrist/Dragon_RWing_Finger1_1/Dragon_RWing_Finger1_2
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Wrist/Dragon_RWing_Finger1_1/Dragon_RWing_Finger1_2/Dragon_RWing_Finger1_3
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Wrist/Dragon_RWing_Finger2_1
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Wrist/Dragon_RWing_Finger2_1/Dragon_RWing_Finger2_2
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Wrist/Dragon_RWing_Finger2_1/Dragon_RWing_Finger2_2/Dragon_RWing_Finger2_3
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Wrist/Dragon_RWing_Finger3_1
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Wrist/Dragon_RWing_Finger3_1/Dragon_RWing_Finger3_2
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Wrist/Dragon_RWing_Finger3_1/Dragon_RWing_Finger3_2/Dragon_RWing_Finger3_3
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Wrist/Dragon_RWing_Thumb_1
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Wrist/Dragon_RWing_Thumb_1/Dragon_RWing_Thumb_2
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_RWing_Shoulder/Dragon_RWing_Elbow/Dragon_RWing_Wrist/Dragon_RWing_Thumb_1/Dragon_RWing_Thumb_2/Dragon_RWing_Thumb_3
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_LHindleg_Hip
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_LHindleg_Hip/Dragon_LHindleg_Knee
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_LHindleg_Hip/Dragon_LHindleg_Knee/Dragon_LHindleg_Ankle
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_LHindleg_Hip/Dragon_LHindleg_Knee/Dragon_LHindleg_Ankle/Dragon_LHindleg_Foot
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_LHindleg_Hip/Dragon_LHindleg_Knee/Dragon_LHindleg_Ankle/Dragon_LHindleg_Foot/Dragon_LHindleg_Toes
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_RHindleg_Hip
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_RHindleg_Hip/Dragon_RHindleg_Knee
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_RHindleg_Hip/Dragon_RHindleg_Knee/Dragon_RHindleg_Ankle
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_RHindleg_Hip/Dragon_RHindleg_Knee/Dragon_RHindleg_Ankle/Dragon_RHindleg_Foot
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_RHindleg_Hip/Dragon_RHindleg_Knee/Dragon_RHindleg_Ankle/Dragon_RHindleg_Foot/Dragon_RHindleg_Toes
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_Tail_1
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_Tail_1/Dragon_Tail_2
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_Tail_1/Dragon_Tail_2/Dragon_Tail_3
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_Tail_1/Dragon_Tail_2/Dragon_Tail_3/Dragon_Tail_4
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_Tail_1/Dragon_Tail_2/Dragon_Tail_3/Dragon_Tail_4/Dragon_Tail_5
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_Tail_1/Dragon_Tail_2/Dragon_Tail_3/Dragon_Tail_4/Dragon_Tail_5/Dragon_Tail_6
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_Tail_1/Dragon_Tail_2/Dragon_Tail_3/Dragon_Tail_4/Dragon_Tail_5/Dragon_Tail_Fin3_1
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_Tail_1/Dragon_Tail_2/Dragon_Tail_3/Dragon_Tail_4/Dragon_Tail_5/Dragon_Tail_Fin3_2
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_Tail_1/Dragon_Tail_2/Dragon_Tail_3/Dragon_Tail_4/Dragon_Tail_Fin2_1
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_Tail_1/Dragon_Tail_2/Dragon_Tail_3/Dragon_Tail_4/Dragon_Tail_Fin2_2
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_Tail_1/Dragon_Tail_Fin1_1
+    m_Weight: 0
+  - m_Path: Dragon_Chest/Dragon_Spine_2/Dragon_Spine_3/Dragon_Pelvis/Dragon_Tail_1/Dragon_Tail_Fin1_2
+    m_Weight: 0
